@@ -31,7 +31,7 @@ Below we provide a comprehensive description for each column contained in the ca
 - `patch`: Patch name as an integer
 - `{band}_cmodel_flux`: Flux from the final cmodel fit (in nano-Jy)
 - `{band}_cmodel_mag`: Flux from the final cmodel fit (in mag)
-- `{band}_kronflux_flux`: Flux from Kron Flux algorithm (in nano-J
+- `{band}_kronflux_flux`: Flux from Kron Flux algorithm (in nano-Jy)
 - `{band}_kronflux_mag`: Flux from Kron Flux algorithm (in mag)
 - `photoz_best`: Redshift chosen so that the risk would be minimal
 - `photoz_std_best`: Standard deviation around `photoz_best`
