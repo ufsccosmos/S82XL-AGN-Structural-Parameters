@@ -24,7 +24,7 @@ Below we provide a comprehensive description for each column contained in the ca
 - `DECin`: DEC (J2000.0) of the HSC counterpart (in degree)
 
 ### Columns from HSC DR3 table [pdr3\_wide.forced](https://hsc-release.mtk.nao.ac.jp/schema/\#pdr3.pdr3_wide.forced), [pdr3\_wide.forced2](https://hsc-release.mtk.nao.ac.jp/schema/\#pdr3.pdr3_wide.forced2), [pdr3\_wide.photoz\_mizuki](https://hsc-release.mtk.nao.ac.jp/schema/\#pdr3.pdr3_wide.photoz_mizuki)
-- `object_id`: Unique ID in 64bit integer. This is not the same as InID.
+- `object_id`: Unique ID in 64bit integer. This is not the same as `InID`.
 - `ra`: RA (J2000.0) of the object (in degree)
 - `dec`: DEC (J2000.0) of the object (in degree)
 - `tract`: Tract ID
