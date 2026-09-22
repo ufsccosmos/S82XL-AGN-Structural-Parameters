@@ -1,7 +1,7 @@
 # S82XL-AGN-Structural-Parameters
 
-This repository contains the main catalog of 1378 Stripe 82XL AGNs at $0<z<1$ (`Cat_AGN_Main`), with 360 columns, for the paper "[Catalog of Morphological Parameters for $1378$ $z<1$
-AGN Host Galaxies in Stripe 82XL: Evidence for a Significant Dependence of AGN--Galaxy Co-evolution on X-ray Luminosity]" (hereafter `the paper`). 
+This repository contains the main catalog of 1378 Stripe 82XL AGNs at $0<z<1$ (`Cat_AGN_Main`), with 360 columns, for the paper `Catalog of Morphological Parameters for $1378$ $z<1$
+AGN Host Galaxies in Stripe 82XL: Evidence for a Significant Dependence of AGN--Galaxy Co-evolution on X-ray Luminosity` (hereafter `the paper`). 
 
 ## Access to the file
 File `S82XL_HSC3_z_0_1_1378AGN.fits` contains the main catalog. We recommend using an appropriate software, such as [TOPCAT](https://www.star.bris.ac.uk/mbt/topcat/), to access its contents.
